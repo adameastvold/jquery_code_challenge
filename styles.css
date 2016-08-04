@@ -1,0 +1,26 @@
+.container {
+
+border: 1px solid black;
+}
+
+.spyFine {
+  float: left;
+  width: 80%;
+  border: 1px solid black;
+}
+
+#change {
+  float: right;
+  display: inline-block;
+  /*border: 1px solid black;*/
+}
+
+#delete {
+  float: right;
+  display: inline-block;
+  /*border: 1px solid black;*/
+}
+
+.dangerSpy {
+  background-color: red;
+}
